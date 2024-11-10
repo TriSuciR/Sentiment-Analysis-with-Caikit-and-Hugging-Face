@@ -1,5 +1,5 @@
-<h1 align="center">Analisis Sentimen Teks menggunakan Caikit dan Hugging Face**
-**Penulis:** Cognitive Class AI
+<h1 align="center">Analisis Sentimen Teks menggunakan Caikit dan Hugging Face
+Penulis: Cognitive Class AI
 
 <p align="center"> Selamat datang di proyek Analisis Sentimen yang menggabungkan kekuatan Caikit dan Hugging Face! 
 Proyek ini bertujuan untuk menganalisis sentimen teks menggunakan model transformer terbaru dari Hugging Face, dan mengintegrasikannya dengan kerangka kerja Caikit. 
